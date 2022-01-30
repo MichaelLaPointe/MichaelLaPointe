@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelLaPointe
 - 👀 I’m interested in stuff for a furture SysAdmin job
 - 🌱 I’m currently learning Powershell scripting
-- 💞️ I’m looking to collaborate on ... dunno.. I'm just saving some of my Powershell commands right now. 
+- 💞️ I’m looking to collaborate on ... dunno.. I'm just saving some of my Powershell functions right now. 
 - 📫 How to reach me michaelleemlp@gmail.com
 
 <!---
