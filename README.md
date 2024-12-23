@@ -1,3 +1,5 @@
+For "Mike Is Learning Powershell" code transcripts, go to the MILP section!
+
 - 👋 Hi, I’m @MichaelLaPointe
 - 👀 I’m interested in stuff for a furture SysAdmin job
 - 🌱 I’m currently learning Powershell scripting
